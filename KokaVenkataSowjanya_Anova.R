@@ -1,7 +1,4 @@
 # Koka Venkata Sowjanya
-# Due 11:59pm; Nov 25, 2020
-# Assignment 4: ANOVA
-
 #=========================================================================
 
 #Question0. Read the dataset. Make sure that the variable “Area” is a factor.
